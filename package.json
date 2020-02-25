@@ -8,15 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/codesandbox-app/static-template.git"
+    "url": "git+https://github.com/MattMarble/HMTL-CSS-CodeSnippets.git"
   },
   "keywords": [],
-  "author": "Ives van Hoorne",
+  "author": "Matt Holt",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/codesandbox-app/static-template/issues"
-  },
-  "homepage": "https://github.com/codesandbox-app/static-template#readme",
+  "homepage": "https://mattmarble.github.io/HMTL-CSS-CodeSnippets/",
   "devDependencies": {
     "serve": "^11.2.0"
   }
